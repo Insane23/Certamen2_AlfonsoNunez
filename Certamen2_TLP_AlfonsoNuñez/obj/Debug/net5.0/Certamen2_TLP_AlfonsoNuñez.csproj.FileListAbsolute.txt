@@ -1,0 +1,16 @@
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.exe
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.deps.json
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.runtimeconfig.json
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.dll
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\ref\Certamen2_TLP_AlfonsoNuñez.dll
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\bin\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.pdb
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.csproj.AssemblyReference.cache
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.AssemblyInfo.cs
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.csproj.CoreCompileInputs.cache
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.dll
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\ref\Certamen2_TLP_AlfonsoNuñez.dll
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.pdb
+C:\Users\alfon\source\repos\Certamen2_TLP_AlfonsoNuñez\obj\Debug\net5.0\Certamen2_TLP_AlfonsoNuñez.genruntimeconfig.cache
